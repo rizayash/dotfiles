@@ -1,0 +1,11 @@
+[pull]
+	ff = only
+[http]
+	postBuffer = 524288000
+[user]
+	email = {{ .email | quote }}
+	name = {{ .name | quote }}
+[core]
+	excludesfile = ~/.gitignore_global
+[init]
+	defaultBranch = main

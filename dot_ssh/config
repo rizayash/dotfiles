@@ -1,0 +1,6 @@
+Host ssh.gitlab.grammarly.io
+  HostName ssh.gitlab.grammarly.io
+  User riza.yahya
+  IdentityFile /Users/ry/.ssh/ggitlab
+  #IdentitiesOnly yes
+  PreferredAuthentications publickey    

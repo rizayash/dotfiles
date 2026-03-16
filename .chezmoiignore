@@ -1,0 +1,6 @@
+# Files tracked in chezmoi source but not deployed to home
+Brewfile
+README.md
+
+# gh auth tokens — never sync
+dot_config/gh/hosts.yml
