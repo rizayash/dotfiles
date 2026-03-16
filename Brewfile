@@ -5,7 +5,6 @@
 brew "git"
 brew "gh"
 brew "node"
-brew "markdown"
 brew "mole"
 
 # Shell enhancements
